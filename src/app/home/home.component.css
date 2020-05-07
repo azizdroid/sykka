@@ -1,0 +1,16 @@
+a.custom-card,
+a.custom-card:hover {
+  color: inherit;
+}
+
+.centered {
+  position: absolute;
+  top: 62%;
+  left: 46%;
+  transform: translate(-50%, -50%);
+  border-style: solid;
+  border-color: aliceblue;
+  font-family: 'SourceSansPro-SemiBold', sans-serif;
+  color: white;
+font-size: medium;    
+}
